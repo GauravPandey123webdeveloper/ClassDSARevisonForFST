@@ -1,6 +1,4 @@
-
 public class Linklist{
-  
     public static class Node{
             int data;
             Node next;
@@ -8,7 +6,6 @@ public class Linklist{
                 this.data=data;
             }
     }
-
     public static class linklist{
         Node head=null;
         Node tail=null;
